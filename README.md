@@ -1,2 +1,2 @@
 # Intership
-FinRobo Project
+FlipRobo Project
